@@ -1,0 +1,106 @@
+body{
+    margin:0px;
+}
+
+.foto{
+    border-radius: 50%;
+}
+
+.topo{
+    display: inline-flex;
+    justify-content: left;
+    width: 100%;
+
+}
+
+.nome{
+padding-left: 20px;
+}
+
+.topo{
+    background-color:antiquewhite;
+    
+    
+}
+.meio{
+    background-color: antiquewhite;
+}
+
+.meio2{
+    background-color: antiquewhite;
+}
+
+.meio3{
+    background-color: antiquewhite;
+}
+
+.navegar{
+    margin-left: 59%;
+
+}
+
+.titulo{
+    text-align: center;
+    height: 100%;
+    display: flex;
+    width: 100%;
+    
+}
+
+
+.foto2{
+margin-right: 35%;
+}
+
+.nome2{
+    margin-left: -49%;
+    margin-top: 1%;
+
+}
+.idade{
+    margin-left: -17.5%;
+    margin-top: 3%;
+    
+}
+.email{
+    margin-left: -9.5%;
+    margin-top: 5%;
+}
+
+.texto{
+    width: 50%;
+    margin-left:35%;
+    margin-top: -10%;
+}
+
+.in{
+    margin-left: 1%;
+    margin-top: 3%;
+}
+.nomein{
+    margin-top: -6%;
+    margin-left: 5%;
+}
+
+.inst{
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+.nomeinst{
+    margin-top: 3%;
+    margin-left: 5%;
+}
+
+.bodyy{
+    background-color: antiquewhite;
+
+}
+
+.cidade{
+    margin-top: 7%;
+    margin-left: -24.3%;
+}
+.texto{
+    font-size: 20px;
+}
